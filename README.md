@@ -1,0 +1,1 @@
+Supuesto práctico del curso "Diseño básico de páginas web" de Intalentia.
